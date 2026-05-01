@@ -37,15 +37,6 @@ header {
   color: #4B5563;
 }
 
-.list-elements li {
-  transition: ease-in-out 0.3s;
-}
-
-.list-elements li:hover {
-  cursor: pointer;
-  color: #3B82F6;
-}
-
 ul {
   display: flex;
   justify-content: space-around;
